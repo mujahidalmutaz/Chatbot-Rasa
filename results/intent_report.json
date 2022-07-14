@@ -1,0 +1,340 @@
+{
+  "ask_buy_at_store": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "bot_challenge": 9,
+      "mood_great": 1
+    }
+  },
+  "greet": {
+    "precision": 0.6486486486486487,
+    "recall": 0.6857142857142857,
+    "f1-score": 0.6666666666666667,
+    "support": 35,
+    "confused_with": {
+      "deny": 5,
+      "bot_challenge": 2
+    }
+  },
+  "greet_evening": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "mood_great": 7,
+      "deny": 1
+    }
+  },
+  "show_cart": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "bot_challenge": 7,
+      "affirm": 2,
+      "mood_great": 2
+    }
+  },
+  "ask_holiday": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "bot_challenge": 9,
+      "mood_great": 1
+    }
+  },
+  "ask_menu": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "bot_challenge": 10,
+      "mood_great": 1
+    }
+  },
+  "affirm": {
+    "precision": 0.23529411764705882,
+    "recall": 0.13333333333333333,
+    "f1-score": 0.1702127659574468,
+    "support": 30,
+    "confused_with": {
+      "mood_unhappy": 9,
+      "deny": 9
+    }
+  },
+  "ask_pricelist": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "bot_challenge": 6,
+      "mood_great": 2,
+      "deny": 1
+    }
+  },
+  "ask_store_pn": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 17,
+    "confused_with": {
+      "bot_challenge": 10,
+      "mood_unhappy": 4,
+      "mood_great": 3
+    }
+  },
+  "sufficent": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "goodbye": 4,
+      "greet": 2,
+      "deny": 1
+    }
+  },
+  "ask_promo": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 13,
+    "confused_with": {
+      "mood_unhappy": 7,
+      "bot_challenge": 2,
+      "mood_great": 2
+    }
+  },
+  "greet_salam": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "deny": 4,
+      "bot_challenge": 3,
+      "mood_unhappy": 2
+    }
+  },
+  "deny": {
+    "precision": 0.16923076923076924,
+    "recall": 0.4782608695652174,
+    "f1-score": 0.25000000000000006,
+    "support": 23,
+    "confused_with": {
+      "mood_great": 6,
+      "mood_unhappy": 5
+    }
+  },
+  "ask_package": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 45,
+    "confused_with": {
+      "mood_unhappy": 28,
+      "bot_challenge": 13,
+      "deny": 3
+    }
+  },
+  "choose_variant": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16,
+    "confused_with": {
+      "affirm": 7,
+      "bot_challenge": 6,
+      "deny": 2
+    }
+  },
+  "request_order": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 33,
+    "confused_with": {
+      "bot_challenge": 13,
+      "mood_unhappy": 12,
+      "mood_great": 5
+    }
+  },
+  "ask_custom_cake": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "bot_challenge": 9,
+      "mood_great": 2,
+      "goodbye": 1
+    }
+  },
+  "order_qty": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 20,
+    "confused_with": {
+      "deny": 15,
+      "mood_unhappy": 4,
+      "bot_challenge": 1
+    }
+  },
+  "ask_pickup_hour": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "mood_unhappy": 10,
+      "bot_challenge": 1
+    }
+  },
+  "show_menu": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8,
+    "confused_with": {
+      "greet": 4,
+      "bot_challenge": 2,
+      "deny": 2
+    }
+  },
+  "greet_morning": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9,
+    "confused_with": {
+      "mood_great": 6,
+      "bot_challenge": 2,
+      "mood_unhappy": 1
+    }
+  },
+  "ask_greeting_card": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "bot_challenge": 6,
+      "mood_unhappy": 4
+    }
+  },
+  "thanks": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 17,
+    "confused_with": {
+      "deny": 7,
+      "bot_challenge": 6,
+      "mood_great": 2
+    }
+  },
+  "track_order": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "bot_challenge": 6,
+      "mood_unhappy": 3,
+      "deny": 1
+    }
+  },
+  "ask_request_human": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 21,
+    "confused_with": {
+      "bot_challenge": 11,
+      "goodbye": 7,
+      "mood_unhappy": 3
+    }
+  },
+  "ask_halal_item": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12,
+    "confused_with": {
+      "bot_challenge": 8,
+      "greet": 2,
+      "deny": 1
+    }
+  },
+  "ask_operating_hour": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 14,
+    "confused_with": {
+      "bot_challenge": 10,
+      "mood_great": 3,
+      "mood_unhappy": 1
+    }
+  },
+  "ask_info": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10,
+    "confused_with": {
+      "bot_challenge": 7,
+      "mood_unhappy": 2,
+      "greet": 1
+    }
+  },
+  "greet_afternoon": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "mood_great": 6,
+      "affirm": 1
+    }
+  },
+  "greet_noon": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7,
+    "confused_with": {
+      "mood_great": 3,
+      "greet": 2,
+      "bot_challenge": 2
+    }
+  },
+  "micro avg": {
+    "precision": 0.3277310924369748,
+    "recall": 0.08423326133909287,
+    "f1-score": 0.13402061855670103,
+    "support": 463
+  },
+  "macro avg": {
+    "precision": 0.03510578451754922,
+    "recall": 0.04324361628709455,
+    "f1-score": 0.036229314420803786,
+    "support": 463
+  },
+  "weighted avg": {
+    "precision": 0.0726864663594431,
+    "recall": 0.08423326133909287,
+    "f1-score": 0.07384387972366467,
+    "support": 463
+  }
+}

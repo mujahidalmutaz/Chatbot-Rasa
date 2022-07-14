@@ -1,0 +1,3394 @@
+[
+  {
+    "text": "Hari ini buka jam brp",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5064191818237305
+    }
+  },
+  {
+    "text": "Buka sampai jam berapa ya Dibandung",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6490092277526855
+    }
+  },
+  {
+    "text": "Kl harvest ppkm ini buka jam brp",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7024108171463013
+    }
+  },
+  {
+    "text": "Jam 8 pagi udh buka",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5052679181098938
+    }
+  },
+  {
+    "text": "untuk yang di PIK tutup jam brp ya",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.500325083732605
+    }
+  },
+  {
+    "text": "The harvest bekasi buka jam berapa ya",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.45337823033332825
+    }
+  },
+  {
+    "text": "Harvest tajur dah buka",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8472892642021179
+    }
+  },
+  {
+    "text": "The harvest tutup jam berapa ya",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7535058856010437
+    }
+  },
+  {
+    "text": "Mi Sya mau tnya bandung buahbatu buka jam brp",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8837471008300781
+    }
+  },
+  {
+    "text": "Mau tanya tokonya tutup jam brpah ya",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9694658517837524
+    }
+  },
+  {
+    "text": "di pasar minggu buka tokonya ka",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8608554601669312
+    }
+  },
+  {
+    "text": "Harvest buka jam brp ya klo hari minggu",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6028087735176086
+    }
+  },
+  {
+    "text": "Mb jam brp buka ya",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8479694724082947
+    }
+  },
+  {
+    "text": "Untuk toko Ciledug buka sampai jam 10 malam juga ga min",
+    "intent": "ask_operating_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.47307154536247253
+    }
+  },
+  {
+    "text": "Mas mbk",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4972192645072937
+    }
+  },
+  {
+    "text": "Alo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6991626620292664
+    }
+  },
+  {
+    "text": "Mbak",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8820466995239258
+    }
+  },
+  {
+    "text": "\tmau minta dihandel cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5342748761177063
+    }
+  },
+  {
+    "text": "\tmau minta dihandel manusia",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6470749378204346
+    }
+  },
+  {
+    "text": "\tpindah ke cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.3547419309616089
+    }
+  },
+  {
+    "text": "\tpindah ke customer service",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9495564699172974
+    }
+  },
+  {
+    "text": "\tsaya ingin kontak ke cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5308865904808044
+    }
+  },
+  {
+    "text": "\tsaya ingin kontak ke manusia",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6915072202682495
+    }
+  },
+  {
+    "text": "\tsaya ingin menguhubungi custumer service",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.8596418499946594
+    }
+  },
+  {
+    "text": "\tsaya ingin menguhubungi cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4586049020290375
+    }
+  },
+  {
+    "text": "\tboleh langsung ke cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.542073667049408
+    }
+  },
+  {
+    "text": "\tboleh langsung ke custumer service",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9983590841293335
+    }
+  },
+  {
+    "text": "\tsaya mau ngobrol dengan customer service",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.975545346736908
+    }
+  },
+  {
+    "text": "\tsaya mau ngobrol dengan cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7364364266395569
+    }
+  },
+  {
+    "text": "\tsaya mau ngobrol sama cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9270373582839966
+    }
+  },
+  {
+    "text": "\tsaya mau ngobrol sama customer service",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.7727439999580383
+    }
+  },
+  {
+    "text": "\tmau bicara dengan cs nya",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9408213496208191
+    }
+  },
+  {
+    "text": "\tmau bicara sama csnya",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5927815437316895
+    }
+  },
+  {
+    "text": "\tmau ngomong sama cs nya",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8667153716087341
+    }
+  },
+  {
+    "text": "\tsaya mau ngomong sama cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5034566521644592
+    }
+  },
+  {
+    "text": "\tmau ngomong dengan cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7587535977363586
+    }
+  },
+  {
+    "text": "\tmau langsung sama cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7780202627182007
+    }
+  },
+  {
+    "text": "\tmau langsung dengan cs",
+    "intent": "ask_request_human",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9009007811546326
+    }
+  },
+  {
+    "text": "\tBisa DO utk kota [Semarang]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9031776189804077
+    }
+  },
+  {
+    "text": "\tBisa minta nomer whatsapp harvest graha famili [surabaya] Atau no telpnya",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8287163376808167
+    }
+  },
+  {
+    "text": "\tSelamat siang kak bisa dibantu info kontak the harvest [Graha famili] [surabaya]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8594339489936829
+    }
+  },
+  {
+    "text": "\tboleh info kontak harvest [bali] kah",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8782410621643066
+    }
+  },
+  {
+    "text": "\tMbakMas ada nomor telepon Harvest Cake Burangrang [Bandung]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9139391183853149
+    }
+  },
+  {
+    "text": "\tboleh mnta no cabang [bandung]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9575617909431458
+    }
+  },
+  {
+    "text": "\tBoleh minta kontak di [jogja]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8066745400428772
+    }
+  },
+  {
+    "text": "\tHarvest [surabaya] kah ini",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.45702892541885376
+    }
+  },
+  {
+    "text": "\tYg [graha famili] ada ga",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9871260523796082
+    }
+  },
+  {
+    "text": "\tcabang [jogja] ya",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8266233205795288
+    }
+  },
+  {
+    "text": "\thalo mau tnya harvest di [samarinda] untuk dine in di cafe nya bisa",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8359615206718445
+    }
+  },
+  {
+    "text": "\tKalo harvest [manado] bisa pesan di wa ini",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9372919201850891
+    }
+  },
+  {
+    "text": "\tboleh minta kontak outlet yg di [malang] nya",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7771051526069641
+    }
+  },
+  {
+    "text": "\t[semarang]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9535194635391235
+    }
+  },
+  {
+    "text": "\tAda no kontak harvest [surabaya]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5308730006217957
+    }
+  },
+  {
+    "text": "\tbaik terima kasih apakah ada contact tim di outlet The Harvest [Radio Dalam]",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.35956671833992004
+    }
+  },
+  {
+    "text": "\tKalo cabang [Bintaro] sektor 5 ada no wa nya ga",
+    "intent": "ask_store_pn",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8019580245018005
+    }
+  },
+  {
+    "text": "\tPermisi mau nanya untuk pesanan dengan nomor [HC21080411147040] akan diantar kapan ya terimakasih",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7732282876968384
+    }
+  },
+  {
+    "text": "\tmau tny hri ini kue dikirim jm brp yaa",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7456909418106079
+    }
+  },
+  {
+    "text": "\tBoleh tau kira2 dikirim kapan ya ka",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5958287119865417
+    }
+  },
+  {
+    "text": "\tOrder itu mau diantar kpn ya",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5697027444839478
+    }
+  },
+  {
+    "text": "\tSaya mau track pesanan",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8914798498153687
+    }
+  },
+  {
+    "text": "\tmau tny hri ini kue dikirim jm brp ya",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6694841384887695
+    }
+  },
+  {
+    "text": "\tKok belom dikirim ya",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8892177939414978
+    }
+  },
+  {
+    "text": "\tcek order dmn",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.949611485004425
+    }
+  },
+  {
+    "text": "\taku mau tanya order ku no [HC21081116148019]",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7168244123458862
+    }
+  },
+  {
+    "text": "\tmau tanya order ini",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6931681632995605
+    }
+  },
+  {
+    "text": "\tsaya mau bertanya cara cek pesanan kita sudah diantar atau belum bagaimana yaa Berikut order ID pemesanan [HC21080213146760]",
+    "intent": "track_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6622668504714966
+    }
+  },
+  {
+    "text": "\tHallo mau order utk birthday cake custom",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.5963031053543091
+    }
+  },
+  {
+    "text": "\tMau tanya terkait custom cake",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6150487065315247
+    }
+  },
+  {
+    "text": "\tMau tanya kak kalau custom cake ulang tahun design seperti ini kena berapa yaa",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7014898061752319
+    }
+  },
+  {
+    "text": "\tBisa minta pricelist custom cake",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6400277018547058
+    }
+  },
+  {
+    "text": "\tMw tanya birthday cake bisa request tema untuk anak gk ya",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8721724152565002
+    }
+  },
+  {
+    "text": "\tapakah bisa custom birthday cake untuk jumat malam",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4832267761230469
+    }
+  },
+  {
+    "text": "\tkalo mau custom cakenya ada foto bisa ga",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6767851114273071
+    }
+  },
+  {
+    "text": "\tkak mau tanya kue custom",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8033426403999329
+    }
+  },
+  {
+    "text": "\tCustom cake kayak gini kira kira butuh siapin budget berapa yaa",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7016055583953857
+    }
+  },
+  {
+    "text": "\tMau tanya apakah di harvest bisa custom cake",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5942631363868713
+    }
+  },
+  {
+    "text": "\tKalau mau pesan custom cake di antar ke rumah bisa",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5882430672645569
+    }
+  },
+  {
+    "text": "\tKalo untuk custom cake apakah bisa ya",
+    "intent": "ask_custom_cake",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5352000594139099
+    }
+  },
+  {
+    "text": "\tMau tanya harvest halalkah",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9861635565757751
+    }
+  },
+  {
+    "text": "\tDear harvest please inform me detail ingredients Regarding issue to diet n halal issue for me Thanks a lot",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.43439534306526184
+    }
+  },
+  {
+    "text": "\tapa harvest sudah bersertifikat halal",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.41427576541900635
+    }
+  },
+  {
+    "text": "\tHarvest udah halal MUI kah",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5348309874534607
+    }
+  },
+  {
+    "text": "\tApakah harvest sudah halal kak",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5999593734741211
+    }
+  },
+  {
+    "text": "\tTapi dr pihak keluarga minta pembuktian halal nya dulu",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6769270896911621
+    }
+  },
+  {
+    "text": "\tMau nanya bahannya halal ga ya kak",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9399577975273132
+    }
+  },
+  {
+    "text": "\tSudah ada sertifikat halal nya kan ya",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5773642063140869
+    }
+  },
+  {
+    "text": "\tMau tanya untuk cupcake nya halal ga ya",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8195123076438904
+    }
+  },
+  {
+    "text": "\tes krimnya halal tidak ya",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.764384925365448
+    }
+  },
+  {
+    "text": "\tuntuk varian donat harvest semua halal",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4318462312221527
+    }
+  },
+  {
+    "text": "\tAda label halalnya ngak mbak",
+    "intent": "ask_halal_item",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7719751596450806
+    }
+  },
+  {
+    "text": "\tKalo beli langsung di the harvest tajur bisa",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5148289203643799
+    }
+  },
+  {
+    "text": "\tSaya ke toko untuk langsung pesan bisakah",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6734996438026428
+    }
+  },
+  {
+    "text": "\tklo mislkan ke toko langsung bisa kan ya",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9346030354499817
+    }
+  },
+  {
+    "text": "\tkalau beli di outlet nya langsung bisa ga ya",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5674444437026978
+    }
+  },
+  {
+    "text": "\taku mau langsung pesen di outlet bisa",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.49781695008277893
+    }
+  },
+  {
+    "text": "\tkalau datang ke toko langsung bisa",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7747650742530823
+    }
+  },
+  {
+    "text": "\tkak aku mau order langsung di the harvest nya apa bisa",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7178152799606323
+    }
+  },
+  {
+    "text": "\taku mau pesen ke toko nya aja langsung",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7973598837852478
+    }
+  },
+  {
+    "text": "\taku ke toko nya langsung bisa kan kak",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9062903523445129
+    }
+  },
+  {
+    "text": "\tKa mau tanya2 kalau kita mau order pesen dulu apa kita datang langsung ka ke tokonya",
+    "intent": "ask_buy_at_store",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8348864912986755
+    }
+  },
+  {
+    "text": "\tmau tny kl hari minggu masih open permntaan",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5663649439811707
+    }
+  },
+  {
+    "text": "\tUntuk besok storenya buka ngga",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.811588704586029
+    }
+  },
+  {
+    "text": "\tGa libur agustusan min",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5746928453445435
+    }
+  },
+  {
+    "text": "\toh iya kak hari minggu toko buka kak",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8217211365699768
+    }
+  },
+  {
+    "text": "\tapakah hari minggu buka",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6246123909950256
+    }
+  },
+  {
+    "text": "\tkak apakah hari libur toko nya buka",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8165204524993896
+    }
+  },
+  {
+    "text": "\tkalau tanggal merah outletnya tetap buka kan",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.934135377407074
+    }
+  },
+  {
+    "text": "\tkak hari ini tanggal merah apa toko buka",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9258332252502441
+    }
+  },
+  {
+    "text": "\tUntuk hari minggu harvest daerah buah batu Bandung masih buka",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7796639204025269
+    }
+  },
+  {
+    "text": "\tapakah The Harvest lokasi depok menerima pemesanan untuk lewat GoFood di hari Minggu",
+    "intent": "ask_holiday",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7964233160018921
+    }
+  },
+  {
+    "text": "\tkak apa bisa minta print kartu ucapan ya",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6189476251602173
+    }
+  },
+  {
+    "text": "\tAda kartu ucapannya jg kah",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7349591255187988
+    }
+  },
+  {
+    "text": "\tBisa request kartu ucapan ga kak",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7491058707237244
+    }
+  },
+  {
+    "text": "\tBs tulis from di kartu ucapan nya Krna kepanjangan kalo di cake",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5546761751174927
+    }
+  },
+  {
+    "text": "\tKalau dikasih kartu ucapan bisa gak ya",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5318668484687805
+    }
+  },
+  {
+    "text": "\tmau tanya klo kartu ucapannya disediain ga",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7607190608978271
+    }
+  },
+  {
+    "text": "\tkak dapet kartu ucapan gaya",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5360522866249084
+    }
+  },
+  {
+    "text": "\tada kartu ucapannya juga ga",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6944305896759033
+    }
+  },
+  {
+    "text": "\tini bisa buat kartu ucapan ka",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5507639646530151
+    }
+  },
+  {
+    "text": "\tkak dapet kartu ucapannya ada",
+    "intent": "ask_greeting_card",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6545674204826355
+    }
+  },
+  {
+    "text": "\tUntuk pengambilan nya jam berapa ya ka",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6860383749008179
+    }
+  },
+  {
+    "text": "\tApakah bisa jika saya order buat tgl 10 agustus saya ambil pukul 08.00",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6847397089004517
+    }
+  },
+  {
+    "text": "\tbisa diambil jam 10",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9811927080154419
+    }
+  },
+  {
+    "text": "\tUntuk pengambilan jam 12 sudah bisa ya",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5844816565513611
+    }
+  },
+  {
+    "text": "\tini bisa diambil jam berapa",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9856112003326416
+    }
+  },
+  {
+    "text": "\tbisa diambil jam brp ya",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9577834010124207
+    }
+  },
+  {
+    "text": "\tJam berapa bisa diambil cake nya",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.842583179473877
+    }
+  },
+  {
+    "text": "\tApa bisa diambil jam 8 pagi di 22 Agustus",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9285434484481812
+    }
+  },
+  {
+    "text": "\tKalau hari ini sebelum jam 12 pesan besok bisa diambil jam berpa",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5119411945343018
+    }
+  },
+  {
+    "text": "\tsaya pesan triple ice cake utk sabtu 7 agustus pagi bisa diambil jam brp di harvest cibubur",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8889856338500977
+    }
+  },
+  {
+    "text": "\tMaaf bisa bantu utk pesanan besok rencana diambil jam 10 apa jam 8 uda siap",
+    "intent": "ask_pickup_hour",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7007449865341187
+    }
+  },
+  {
+    "text": "\tCake brpaan ya",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6890499591827393
+    }
+  },
+  {
+    "text": "\tPrice list nya ada",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.7307104468345642
+    }
+  },
+  {
+    "text": "\tSaya mau order cake untuk besok bisa lihat price listnya",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.329805850982666
+    }
+  },
+  {
+    "text": "\tminta price list cake donk",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.902441143989563
+    }
+  },
+  {
+    "text": "\tKak bs minta pricelist yg bukan cake",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7248706817626953
+    }
+  },
+  {
+    "text": "\tada pricelist",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9119210839271545
+    }
+  },
+  {
+    "text": "\tMau tanya ada pricelist cake ka",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7279401421546936
+    }
+  },
+  {
+    "text": "\tboleh dikirim pricelist nya",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5172709226608276
+    }
+  },
+  {
+    "text": "\tBoleh minta pricelistnya",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6327775120735168
+    }
+  },
+  {
+    "text": "\tApa boleh minta pricelist nya ya",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8231001496315002
+    }
+  },
+  {
+    "text": "\tHallo boleh share katalog price cakenya kak",
+    "intent": "ask_pricelist",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5773270726203918
+    }
+  },
+  {
+    "text": "\tMau liat katalog kue",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6208280920982361
+    }
+  },
+  {
+    "text": "\tBoleh minta katalognya kak",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9639776349067688
+    }
+  },
+  {
+    "text": "\tBlh minta katalog nya",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9072723984718323
+    }
+  },
+  {
+    "text": "\tCake ulang tahun yg ready apa",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.813033401966095
+    }
+  },
+  {
+    "text": "\tboleh minta menu cake nya gak",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8538745045661926
+    }
+  },
+  {
+    "text": "\tAda katalog ngak",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8781614899635315
+    }
+  },
+  {
+    "text": "\tada menu nya ga min",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5934411883354187
+    }
+  },
+  {
+    "text": "\tKalo mau pesen kue ultah apa ada list katalognya ya",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6265506148338318
+    }
+  },
+  {
+    "text": "\tboleh minta list kue yg available",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.593347430229187
+    }
+  },
+  {
+    "text": "\tuntuk menu vegan cake nya ada gak yaa",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7287228107452393
+    }
+  },
+  {
+    "text": "\tBoleh di bantu menunya tidak",
+    "intent": "ask_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6839200258255005
+    }
+  },
+  {
+    "text": "\tini gak ada promo disc kah",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9107035398483276
+    }
+  },
+  {
+    "text": "\tLagi ada promo apa ya",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4199065864086151
+    }
+  },
+  {
+    "text": "\tAda promo untuk besok ga",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6261621117591858
+    }
+  },
+  {
+    "text": "\tsis ini disc gak",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9747417569160461
+    }
+  },
+  {
+    "text": "\tAda promo apa",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7841497659683228
+    }
+  },
+  {
+    "text": "\tada diskon ga ka",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9408461451530457
+    }
+  },
+  {
+    "text": "\tini lg ada diskon ga ya kak",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6224117875099182
+    }
+  },
+  {
+    "text": "\tkak kue nya diskon ga",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.44801294803619385
+    }
+  },
+  {
+    "text": "\tini diskon ga",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6485044360160828
+    }
+  },
+  {
+    "text": "\tada promo kemerdekaan",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8390947580337524
+    }
+  },
+  {
+    "text": "\tIni kalau mau order promo gak",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6628750562667847
+    }
+  },
+  {
+    "text": "\tLagi ada promo ga ya",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.5010095834732056
+    }
+  },
+  {
+    "text": "\thari ini ada promo apa untuk cake",
+    "intent": "ask_promo",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4515908360481262
+    }
+  },
+  {
+    "text": "\tsaya pesan [dua]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9892136454582214
+    }
+  },
+  {
+    "text": "\t[2]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8573412895202637
+    }
+  },
+  {
+    "text": "\t[dua]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9638845920562744
+    }
+  },
+  {
+    "text": "\t[1] saja",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9964209794998169
+    }
+  },
+  {
+    "text": "\t[satu]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9939054846763611
+    }
+  },
+  {
+    "text": "\tpesan [satu]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9981245398521423
+    }
+  },
+  {
+    "text": "\t[1]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8573412895202637
+    }
+  },
+  {
+    "text": "\t1 aja",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8832802772521973
+    }
+  },
+  {
+    "text": "\t[tiga]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5253930687904358
+    }
+  },
+  {
+    "text": "\t2",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t3",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t4",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t5",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t6",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t7",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t8",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t9",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t10",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t[11]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8573412895202637
+    }
+  },
+  {
+    "text": "\t[12]",
+    "intent": "order_qty",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8573412895202637
+    }
+  },
+  {
+    "text": "\tmau pesan",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7328494191169739
+    }
+  },
+  {
+    "text": "\tMau request cake biday buat besok bisa ya Ka",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.528575599193573
+    }
+  },
+  {
+    "text": "\tmin mau pesan cake dan tolong di kirim",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.47306254506111145
+    }
+  },
+  {
+    "text": "\tMau order kue bisa",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8103220462799072
+    }
+  },
+  {
+    "text": "\tMau nanya kalau mau pesen buat bsk bisa ga ya",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8454052805900574
+    }
+  },
+  {
+    "text": "\tSaya mau pesen kue",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8858540058135986
+    }
+  },
+  {
+    "text": "\tHi mau pesan cake utk bsk",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6938346028327942
+    }
+  },
+  {
+    "text": "\tKak mau pesan cake utk sabtu pagi bisa",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6640287041664124
+    }
+  },
+  {
+    "text": "\tMo pesen kue bisa",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4865250289440155
+    }
+  },
+  {
+    "text": "\tHallo mo pesen kue ulang tahun untuk di cibubur",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5265196561813354
+    }
+  },
+  {
+    "text": "\tMau nanya bs pesen cake buat besok ya",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7365107536315918
+    }
+  },
+  {
+    "text": "\tMau pesen kue",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7296090126037598
+    }
+  },
+  {
+    "text": "\tMau pesen cake untuk besok bisa kah",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3938918709754944
+    }
+  },
+  {
+    "text": "\tSaya mau pesen cake untuk 8 agustus",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4718456566333771
+    }
+  },
+  {
+    "text": "\tMalam kak mau order untuk besok masih bisa",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5302963852882385
+    }
+  },
+  {
+    "text": "\tapakah saya bisa order cake ulang tahun",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7022193670272827
+    }
+  },
+  {
+    "text": "\tSy mau order bday cake u k Palembang",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3169987201690674
+    }
+  },
+  {
+    "text": "\thallo kalo saya mau pesan cake untuk besok bisa diambil jam berapa ya paling pagi",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5925569534301758
+    }
+  },
+  {
+    "text": "\tmau pesen cake hari ini bisa min",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.49296993017196655
+    }
+  },
+  {
+    "text": "\tMau order mbakmas",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5833384394645691
+    }
+  },
+  {
+    "text": "\tsaya mau pesen macarons bisa ?",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.980707049369812
+    }
+  },
+  {
+    "text": "\tkak tiramisu nya ready kah ?",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.29315727949142456
+    }
+  },
+  {
+    "text": "\tsaya mau pesen tiramisu",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9840978980064392
+    }
+  },
+  {
+    "text": "\tSaya mau pesan kue",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9625909924507141
+    }
+  },
+  {
+    "text": "\tak pngen ini ka yg red velvet",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.46584445238113403
+    }
+  },
+  {
+    "text": "\thalo mba mau nanya redvelvet yang ini uda ready ga",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.611844539642334
+    }
+  },
+  {
+    "text": "\tKalau ready strawberry cheesecake boleh kak",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5513994097709656
+    }
+  },
+  {
+    "text": "\t[Macaroon])(cake) ready",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.4458153247833252
+    }
+  },
+  {
+    "text": "\tkak untuk cake tiramisu uk 3040 ready ngga kak ?",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.37225061655044556
+    }
+  },
+  {
+    "text": "\tCake baby macarons ready",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9492466449737549
+    }
+  },
+  {
+    "text": "\tBlack macarons ready gak",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41959327459335327
+    }
+  },
+  {
+    "text": "\tBisa minta strawberry cheesecake yg ready",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3836129307746887
+    }
+  },
+  {
+    "text": "\tMau tanya macaroons nya ready gak",
+    "intent": "request_order",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8854494094848633
+    }
+  },
+  {
+    "text": "\tmenu",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6885960102081299
+    }
+  },
+  {
+    "text": "\tshow menu",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5829473733901978
+    }
+  },
+  {
+    "text": "\ttampilkan pilihan",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8660731911659241
+    }
+  },
+  {
+    "text": "\tmunculkan pilihan",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5928276181221008
+    }
+  },
+  {
+    "text": "\tpilihan menu",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6375542283058167
+    }
+  },
+  {
+    "text": "\tmenu menu",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7814002633094788
+    }
+  },
+  {
+    "text": "\topsi pilihan",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.47394388914108276
+    }
+  },
+  {
+    "text": "\tmunculkan opsi",
+    "intent": "show_menu",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.45608407258987427
+    }
+  },
+  {
+    "text": "\ttampilkan keranjang",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9661882519721985
+    }
+  },
+  {
+    "text": "\tmunculkan keranjang",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8303448557853699
+    }
+  },
+  {
+    "text": "\tlihat keranjang",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5080385208129883
+    }
+  },
+  {
+    "text": "\ttampilkan cart",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9838666915893555
+    }
+  },
+  {
+    "text": "\tmunculkan cart",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.80646151304245
+    }
+  },
+  {
+    "text": "\tlihat cart",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7324466705322266
+    }
+  },
+  {
+    "text": "\tshow cart",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7571665644645691
+    }
+  },
+  {
+    "text": "\ttampilkan keranjang saya",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8301953673362732
+    }
+  },
+  {
+    "text": "\tmunculkan keranjang saya",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8203955292701721
+    }
+  },
+  {
+    "text": "\tlihat keranjang saya",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.36821848154067993
+    }
+  },
+  {
+    "text": "\ttampilkan keranjang saat ini",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5851134657859802
+    }
+  },
+  {
+    "text": "\tcart",
+    "intent": "show_cart",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9693016409873962
+    }
+  },
+  {
+    "text": "\tsaya mau box of 4",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8563504815101624
+    }
+  },
+  {
+    "text": "\tmau yang box 4",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9879967570304871
+    }
+  },
+  {
+    "text": "\tyang 20x10",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6374505758285522
+    }
+  },
+  {
+    "text": "\t20x10",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8937140107154846
+    }
+  },
+  {
+    "text": "\tsaya pesen yang 20x10",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.39602869749069214
+    }
+  },
+  {
+    "text": "\tyang 20D ini ka",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.571281909942627
+    }
+  },
+  {
+    "text": "\t20d",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.48897355794906616
+    }
+  },
+  {
+    "text": "\t6D",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4724554419517517
+    }
+  },
+  {
+    "text": "\t60x40 ini aja ka",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8189727663993835
+    }
+  },
+  {
+    "text": "\t6040",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\tbox of 24",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6330270767211914
+    }
+  },
+  {
+    "text": "\tbox of 4",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6330270767211914
+    }
+  },
+  {
+    "text": "\tbox of 8",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6330270767211914
+    }
+  },
+  {
+    "text": "\tbox of 12",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6330270767211914
+    }
+  },
+  {
+    "text": "\tyang ini aja ka triangle",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8338288068771362
+    }
+  },
+  {
+    "text": "\ttriangle yang ini",
+    "intent": "choose_variant",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7435229420661926
+    }
+  },
+  {
+    "text": "\tMas mbk",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4972192645072937
+    }
+  },
+  {
+    "text": "\tAlo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6991626620292664
+    }
+  },
+  {
+    "text": "\tMbak",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8820466995239258
+    }
+  },
+  {
+    "text": "\tbetul dengan the harvest ya",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5703293681144714
+    }
+  },
+  {
+    "text": "\tPak Bu",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.6139419674873352
+    }
+  },
+  {
+    "text": "\thay mba",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4319107234477997
+    }
+  },
+  {
+    "text": "\tP",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6825819611549377
+    }
+  },
+  {
+    "text": "\tping",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9364753365516663
+    }
+  },
+  {
+    "text": "\tSore harvest",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5688408017158508
+    }
+  },
+  {
+    "text": "\tSore",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.522699773311615
+    }
+  },
+  {
+    "text": "\tHalo selamat sore",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9594928622245789
+    }
+  },
+  {
+    "text": "\tSelamat sore",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9970619082450867
+    }
+  },
+  {
+    "text": "\tSore kk",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9607200026512146
+    }
+  },
+  {
+    "text": "\tSelamat sore ka",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9981916546821594
+    }
+  },
+  {
+    "text": "\tSore harvest cake",
+    "intent": "greet_afternoon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6529538035392761
+    }
+  },
+  {
+    "text": "\tMalam kak",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9588596820831299
+    }
+  },
+  {
+    "text": "\tHi Selamat Malam Kak",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9482943415641785
+    }
+  },
+  {
+    "text": "\tSelamat malam Ka",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9959516525268555
+    }
+  },
+  {
+    "text": "\tHalo kak selamat malam",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9746594429016113
+    }
+  },
+  {
+    "text": "\tSelamat malam",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9973215460777283
+    }
+  },
+  {
+    "text": "\tmlm kak",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4901570677757263
+    }
+  },
+  {
+    "text": "\tSelamat malam min",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9664757251739502
+    }
+  },
+  {
+    "text": "\tmalam",
+    "intent": "greet_evening",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9806351065635681
+    }
+  },
+  {
+    "text": "\tSelamat pagi",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9996926784515381
+    }
+  },
+  {
+    "text": "\tSelamat pagi harvest",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.995392918586731
+    }
+  },
+  {
+    "text": "\tSelamat pagi mbak",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9951350092887878
+    }
+  },
+  {
+    "text": "\tHalo pagi Harvest Cake",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.49189290404319763
+    }
+  },
+  {
+    "text": "\tPagi masmba",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5899313688278198
+    }
+  },
+  {
+    "text": "\tPagi mba",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.37513497471809387
+    }
+  },
+  {
+    "text": "\tPagi ka",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9798678755760193
+    }
+  },
+  {
+    "text": "\tSelamat pagi boleh tolong dibantu",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5834885239601135
+    }
+  },
+  {
+    "text": "\tSelamat pagi dengan The Harvest ya",
+    "intent": "greet_morning",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.829714834690094
+    }
+  },
+  {
+    "text": "\tSiang",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7544857263565063
+    }
+  },
+  {
+    "text": "\tSiang kak",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6055379509925842
+    }
+  },
+  {
+    "text": "\tSelamat siang harvest",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9139032363891602
+    }
+  },
+  {
+    "text": "\tselamat siang min",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7209705710411072
+    }
+  },
+  {
+    "text": "\tSiang The Harvest",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8606240153312683
+    }
+  },
+  {
+    "text": "\tsiang saya mau tanya",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6749759316444397
+    }
+  },
+  {
+    "text": "\tSelamat siang betul dengan harvest cake ya",
+    "intent": "greet_noon",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5522353053092957
+    }
+  },
+  {
+    "text": "\tAsalamualaikum",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4834854006767273
+    }
+  },
+  {
+    "text": "\tAss kak",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5573446750640869
+    }
+  },
+  {
+    "text": "\tAssalamualaikum min mau tanya bisa kah min",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5471392869949341
+    }
+  },
+  {
+    "text": "\tAssalamualaikum ka boleh minta bantuan",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9211590886116028
+    }
+  },
+  {
+    "text": "\tass",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9271173477172852
+    }
+  },
+  {
+    "text": "\tAs wr wb",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37059611082077026
+    }
+  },
+  {
+    "text": "\tasalamualaikum",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4892343580722809
+    }
+  },
+  {
+    "text": "\tass wr.wb",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4013066291809082
+    }
+  },
+  {
+    "text": "\tassalamualaikum wr.wb",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.48425713181495667
+    }
+  },
+  {
+    "text": "\tass wr wb",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5029513239860535
+    }
+  },
+  {
+    "text": "\tassalamualaikum wr wb",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4851861298084259
+    }
+  },
+  {
+    "text": "\tasw",
+    "intent": "greet_salam",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9042953252792358
+    }
+  },
+  {
+    "text": "\tBisa infonya ya Ka",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7179321646690369
+    }
+  },
+  {
+    "text": "\tMau nanya kak",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8355339169502258
+    }
+  },
+  {
+    "text": "\tMohon info min",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9743404984474182
+    }
+  },
+  {
+    "text": "\tSaya mau tanya boleh",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7962236404418945
+    }
+  },
+  {
+    "text": "\tkak mau nanya",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8321236968040466
+    }
+  },
+  {
+    "text": "\tMau tanya",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9699805378913879
+    }
+  },
+  {
+    "text": "\tmau bertanya min",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8990917205810547
+    }
+  },
+  {
+    "text": "\tpermisi mau nanya",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4717017412185669
+    }
+  },
+  {
+    "text": "\tsaya mau bertanya",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6287252306938171
+    }
+  },
+  {
+    "text": "\tmau nanya",
+    "intent": "ask_info",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7183701395988464
+    }
+  },
+  {
+    "text": "\tNoted",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8316157460212708
+    }
+  },
+  {
+    "text": "\tiya",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5999348163604736
+    }
+  },
+  {
+    "text": "\tiyah",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5128820538520813
+    }
+  },
+  {
+    "text": "\tiyak",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9723686575889587
+    }
+  },
+  {
+    "text": "\tSip",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8433430194854736
+    }
+  },
+  {
+    "text": "\tHoualah seperti itu",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2840609848499298
+    }
+  },
+  {
+    "text": "\tOh okay kak",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8712718486785889
+    }
+  },
+  {
+    "text": "\tOh gtu",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.537175178527832
+    }
+  },
+  {
+    "text": "\tOk",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9958657026290894
+    }
+  },
+  {
+    "text": "\toke",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8114228844642639
+    }
+  },
+  {
+    "text": "\tsiap",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9960703253746033
+    }
+  },
+  {
+    "text": "\tOkey",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5776060223579407
+    }
+  },
+  {
+    "text": "\tOk baik",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9420258402824402
+    }
+  },
+  {
+    "text": "\tOh oke",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7289848923683167
+    }
+  },
+  {
+    "text": "\tudah jelas kak",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.38528165221214294
+    }
+  },
+  {
+    "text": "\tdah jelas",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6757821440696716
+    }
+  },
+  {
+    "text": "\tcukup jelas",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9737542867660522
+    }
+  },
+  {
+    "text": "\tcukup jls",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9691354632377625
+    }
+  },
+  {
+    "text": "\tok setuju",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.6403148770332336
+    }
+  },
+  {
+    "text": "\tclear",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.46412795782089233
+    }
+  },
+  {
+    "text": "ya udah ok",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7204503417015076
+    }
+  },
+  {
+    "text": "\tada",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9925360679626465
+    }
+  },
+  {
+    "text": "\tiya ada",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9261301159858704
+    }
+  },
+  {
+    "text": "\tada tambahan",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8158714175224304
+    }
+  },
+  {
+    "text": "\tad",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9999356269836426
+    }
+  },
+  {
+    "text": "\tada ada",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9904588460922241
+    }
+  },
+  {
+    "text": "\tcukup",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9996819496154785
+    }
+  },
+  {
+    "text": "\tudah",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5037424564361572
+    }
+  },
+  {
+    "text": "\tcukup min",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.5337417721748352
+    }
+  },
+  {
+    "text": "\tudh",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8093849420547485
+    }
+  },
+  {
+    "text": "\tsudah",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7869215607643127
+    }
+  },
+  {
+    "text": "\tdone",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9999078512191772
+    }
+  },
+  {
+    "text": "\tcukup sudah",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9955415725708008
+    }
+  },
+  {
+    "text": "\tsudah cukup",
+    "intent": "sufficent",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.996359646320343
+    }
+  },
+  {
+    "text": "\tga",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7985164523124695
+    }
+  },
+  {
+    "text": "\tbelum jelas",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.283608078956604
+    }
+  },
+  {
+    "text": "\ttidak jelas",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6242392063140869
+    }
+  },
+  {
+    "text": "\tkurang",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9441884160041809
+    }
+  },
+  {
+    "text": "\tkrg jelas",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8946813941001892
+    }
+  },
+  {
+    "text": "\tga ada",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.688064455986023
+    }
+  },
+  {
+    "text": "\tgak",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5264196395874023
+    }
+  },
+  {
+    "text": "\tgaada min",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9824695587158203
+    }
+  },
+  {
+    "text": "\tenggak",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.512576699256897
+    }
+  },
+  {
+    "text": "\tkagak",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9453129768371582
+    }
+  },
+  {
+    "text": "\tsaat ini hanya itu saja",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.981989860534668
+    }
+  },
+  {
+    "text": "\tga jadi",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9963893294334412
+    }
+  },
+  {
+    "text": "\tyes pls many thanks",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9641931056976318
+    }
+  },
+  {
+    "text": "\tOk thanks ya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8496314883232117
+    }
+  },
+  {
+    "text": "\tThanks",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8345456719398499
+    }
+  },
+  {
+    "text": "\tSudah thanks a lot ya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7733795046806335
+    }
+  },
+  {
+    "text": "\tOkay thanks",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9317967891693115
+    }
+  },
+  {
+    "text": "\tok mba tks",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6613812446594238
+    }
+  },
+  {
+    "text": "\tOk Makasih ya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8719587922096252
+    }
+  },
+  {
+    "text": "\tterimakasih ya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6960341334342957
+    }
+  },
+  {
+    "text": "\ttrims ka",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5203578472137451
+    }
+  },
+  {
+    "text": "\tBaik mksh",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4561596214771271
+    }
+  },
+  {
+    "text": "\tok siap makasih ya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5200222730636597
+    }
+  },
+  {
+    "text": "\tterima kasih",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3480750024318695
+    }
+  },
+  {
+    "text": "\tOke terimakasih",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9667286276817322
+    }
+  },
+  {
+    "text": "\tBaik mba trimksh",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5917700529098511
+    }
+  },
+  {
+    "text": "\tTq",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9899123311042786
+    }
+  },
+  {
+    "text": "\tok thx ya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8348981142044067
+    }
+  },
+  {
+    "text": "\tok tq kak infonya",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7151857018470764
+    }
+  },
+  {
+    "text": "\tKmrn saya ada pesan ini utk lihat apakah pesanan saya di terima atau tidak bagaiman cara nya yah",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.515659749507904
+    }
+  },
+  {
+    "text": "\tPesanan saya da diambil blm ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9845911264419556
+    }
+  },
+  {
+    "text": "\tBlm d kirim y brgny",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.48484787344932556
+    }
+  },
+  {
+    "text": "\tPesanan sy sdh diantar blm ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8513017296791077
+    }
+  },
+  {
+    "text": "\tBs tlg di cek ini sudah diantarkan atau blm",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.46494385600090027
+    }
+  },
+  {
+    "text": "\tPesenan saya sudah jalan belum yaa kak",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5097690224647522
+    }
+  },
+  {
+    "text": "\tPunya sy uda dkirim blm ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8020252585411072
+    }
+  },
+  {
+    "text": "\tSkrg udh sampai mana ya kak",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5082426071166992
+    }
+  },
+  {
+    "text": "\tPesanan saya posisi dimana ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.98264080286026
+    }
+  },
+  {
+    "text": "\tSudah dmna ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7274762392044067
+    }
+  },
+  {
+    "text": "\tApakah sudah sampai kak",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9492935538291931
+    }
+  },
+  {
+    "text": "\tTlg dicek sdh sampai mana",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9637969732284546
+    }
+  },
+  {
+    "text": "\tPaket saya sudah dimna ya min",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9565282464027405
+    }
+  },
+  {
+    "text": "\tTrs skr udah dmn",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5695292949676514
+    }
+  },
+  {
+    "text": "\tUntuj ordernya sudha sampai mana ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9269577264785767
+    }
+  },
+  {
+    "text": "\tHalosnack sy blm dkirim ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.45717236399650574
+    }
+  },
+  {
+    "text": "\tMau tanya pesanan",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8116989731788635
+    }
+  },
+  {
+    "text": "\tKak uda dikirim blm y",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7336223125457764
+    }
+  },
+  {
+    "text": "\tApakah sdh dikirim",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9561115503311157
+    }
+  },
+  {
+    "text": "\tApakah paket sudah jalan",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5883023738861084
+    }
+  },
+  {
+    "text": "\tK pesanan brg ini gmn y",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6162195801734924
+    }
+  },
+  {
+    "text": "\tBs d cek ada kirim atau tidak Agar sy ngk tungguin",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6638668775558472
+    }
+  },
+  {
+    "text": "\tAda dikirim ngk",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7397773861885071
+    }
+  },
+  {
+    "text": "\t004007700001",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8569353818893433
+    }
+  },
+  {
+    "text": "\t004007700001 ini ya kak",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7454290390014648
+    }
+  },
+  {
+    "text": "\tMaaf utk orderan nya sdh dikirim blm ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7385317087173462
+    }
+  },
+  {
+    "text": "\tapa pesanannya sudah diantarkan",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7976957559585571
+    }
+  },
+  {
+    "text": "\tApakah sudah sampai",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9979800581932068
+    }
+  },
+  {
+    "text": "\tIni sudah sampai mana yah",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9825806021690369
+    }
+  },
+  {
+    "text": "\tCek pesanan",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6454808712005615
+    }
+  },
+  {
+    "text": "\tSiang mau tanya orderan saya yg 004007700001 untuk hari ini belum terima",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7980088591575623
+    }
+  },
+  {
+    "text": "\tSiang mau tanya dong pesanan saya apakah sudah diantar",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6090505719184875
+    }
+  },
+  {
+    "text": "\tUtk cek pemesanan sdh sampai dimana gmn caranya ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5418564677238464
+    }
+  },
+  {
+    "text": "\torderan katering saya kok sampai skrg blm diantar ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4729147255420685
+    }
+  },
+  {
+    "text": "\tMau nanya status orderan syaa",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7144421935081482
+    }
+  },
+  {
+    "text": "\tSaya mau Tanya pesanan saya statusnya apa y",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7490934133529663
+    }
+  },
+  {
+    "text": "\tPesanan yg ini sdh dikirim jg blm ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7079122066497803
+    }
+  },
+  {
+    "text": "\tSiang ka mau konfirmasi sudah dimana ya ka statusnya Terimakasih",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5274806022644043
+    }
+  },
+  {
+    "text": "\tPaket sdh dikirim belum",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7751386165618896
+    }
+  },
+  {
+    "text": "\tStatus pengiriman nya bagaimana ya Apakah sudah di jasa pengiriman",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5359574556350708
+    }
+  },
+  {
+    "text": "\tPesanan saya sudah sampai mana ya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9867066740989685
+    }
+  },
+  {
+    "text": "\tNo order nya 004007700001",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9968488216400146
+    }
+  },
+  {
+    "text": "\tBagaimana statusnya",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7907494306564331
+    }
+  },
+  {
+    "text": "\tBisa dicek ga ya sampai mana",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.919643759727478
+    }
+  },
+  {
+    "text": "\tSudah dikirim blom ya kak",
+    "intent": "ask_package",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7417009472846985
+    }
+  }
+]
